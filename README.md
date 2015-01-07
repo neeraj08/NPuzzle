@@ -3,9 +3,12 @@ The popular N Puzzle game
 
 Goal: To put numbers in sorted order from left to right and then top to bottom.
 e.g. for 4 X 4 grid the desired state would be
-1   2   3   4 
+1   2   3   4
+
 5   6   7   8 
+
 9   10  11  12
+
 13  14  15  _
 
 Operations possible:
