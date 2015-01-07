@@ -12,6 +12,8 @@ e.g. for 4 X 4 grid the desired state would be
 
 13  14  15  _
 
+** You can change grid size by changing variable n in NPuzzle.java
+
 Operations possible:
 only 1.)Swap the empty cell with adjacent cell(right, left, top, bottom) by clicking on the adjacent cell.
 
