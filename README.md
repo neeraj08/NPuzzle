@@ -1,6 +1,8 @@
 # NPuzzle
 The popular N Puzzle game
 
+![alt tag](https://github.com/neeraj08/NPuzzle/blob/master/NPuzzle_preview.png)
+
 Goal: To put numbers in sorted order from left to right and then top to bottom.
 e.g. for 4 X 4 grid the desired state would be
 
